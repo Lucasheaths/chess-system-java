@@ -68,7 +68,6 @@ public class ChessMatch {
 			piecesOnTheBoard.remove(capturedPiece);
 			capturedPieces.add(capturedPiece);
 		}
-
 		return capturedPiece;
 	}
 
